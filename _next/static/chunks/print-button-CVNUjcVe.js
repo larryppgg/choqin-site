@@ -1,0 +1,1 @@
+import{r as e}from"./framework-BlZLPK95.js";var t=e();function n(){return(0,t.jsx)(`button`,{className:`button print-button`,onClick:()=>window.print(),children:`打印 / 保存为 PDF ↗`})}export{n as default};

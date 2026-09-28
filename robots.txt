@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://choqin.com/sitemap.xml
